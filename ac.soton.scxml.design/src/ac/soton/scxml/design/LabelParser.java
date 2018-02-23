@@ -8,7 +8,7 @@
  * Contributors:
  *    Obeo - initial API and implementation
  *******************************************************************************/
-package org.eclipse.sirius.tests.sample.scxml.design;
+package ac.soton.scxml.design;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

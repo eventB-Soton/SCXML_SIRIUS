@@ -12,8 +12,8 @@
 -->
 <plugin>
   <extension point="org.eclipse.sirius.componentization">
-    <component class="org.eclipse.sirius.tests.sample.scxml.design.Activator"
-               id="org.eclipse.sirius.tests.sample.scxml.design"
+    <component class="ac.soton.scxml.design.Activator"
+               id="ac.soton.scxml.design"
 	       name="scxml">
     </component>
   </extension>
