@@ -8,13 +8,13 @@
  * Contributors:
  *    Obeo - initial API and implementation
  *******************************************************************************/
-package org.eclipse.sirius.tests.sample.scxml.design;
+package ac.soton.scxml.design;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import org.eclipse.sirius.tests.sample.scxml.ScxmlDataType;
-import org.eclipse.sirius.tests.sample.scxml.ScxmlTransitionType;
+import ac.soton.scxml.ScxmlDataType;
+import ac.soton.scxml.ScxmlTransitionType;
 
 /**
  * Label parser.

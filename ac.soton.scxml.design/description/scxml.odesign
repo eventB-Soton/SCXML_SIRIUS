@@ -226,6 +226,6 @@
         </toolSections>
       </defaultLayer>
     </ownedRepresentations>
-    <ownedJavaExtensions qualifiedClassName="org.eclipse.sirius.tests.sample.scxml.design.LabelParser"/>
+    <ownedJavaExtensions qualifiedClassName="ac.soton.scxml.design.LabelParser"/>
   </ownedViewpoints>
 </description:Group>
